@@ -1,0 +1,22 @@
+PROYECTO: CELEBRACIÓN DE VIDA DE TERESA LUNA
+
+1. Abra la hoja "Recuerdos de Teresa Luna".
+2. Vaya a Extensiones > Apps Script.
+3. Borre el código existente en Code.gs.
+4. Pegue todo el contenido del archivo Code.gs incluido en este paquete.
+5. Guarde el proyecto con el nombre "Libro de recuerdos Teresa Luna".
+6. En Apps Script, seleccione Implementar > Nueva implementación.
+7. Tipo: Aplicación web.
+8. Ejecutar como: Yo.
+9. Quién tiene acceso: Cualquier persona.
+10. Pulse Implementar, autorice el acceso y copie la URL que termina en /exec.
+11. Abra index.html con un editor de texto.
+12. Busque: PASTE_YOUR_WEB_APP_URL_HERE
+13. Reemplace ese texto por la URL /exec, sin borrar las comillas.
+14. Guarde index.html.
+15. Suba a GitHub TODO el contenido de la carpeta teresa_luna_memorial, con index.html en la raíz del repositorio.
+16. En GitHub: Settings > Pages > Deploy from a branch > main > /(root) > Save.
+17. Espere unos minutos y abra la URL publicada por GitHub Pages.
+18. Envíe un recuerdo de prueba.
+19. Abra la hoja, cambie Estado a Aprobado y marque Publicar en la página.
+20. Recargue la página. El recuerdo debe aparecer.
